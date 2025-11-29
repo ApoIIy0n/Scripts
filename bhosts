@@ -1,97 +1,97 @@
-vpnnederland.nl
-activate.adobe.com
-practivate.adobe.com
-ereg.adobe.com
-wip3.adobe.com
-activate.wip3.adobe.com
-3dns-3.adobe.com
-3dns-2.adobe.com
-adobe-dns.adobe.com
-adobe-dns-2.adobe.com
-adobe-dns-3.adobe.com
-ereg.wip3.adobe.com
-activate-sea.adobe.com
-wwis-dubc1-vip60.adobe.com
-activate-sjc0.adobe.com
-hl2rcv.adobe.com
-lm.licenses.adobe.com
-na2m-pr.licenses.adobe.com
-lmlicenses.wip4.adobe.com
-na1r.services.adobe.com
-hlrcv.stage.adobe.com
-telemetry.dropbox.com
-telemetry.v.dropbox.com
-functional.events.data.microsoft.com
-browser.events.data.msn.com
-self.events.data.microsoft.com
-v10.events.data.microsoft.com
-v10c.events.data.microsoft.com
-us-v10c.events.data.microsoft.com
-eu-v10c.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
-vortex-win.data.microsoft.com
-telecommand.telemetry.microsoft.com
-www.telecommandsvc.microsoft.com
-umwatson.events.data.microsoft.com
-watsonc.events.data.microsoft.com
-eu-watsonc.events.data.microsoft.com
-inference.location.live.net
-location-inference-westus.cloudapp.net
-maps.windows.com
-ecn.dev.virtualearth.net
-ecn-us.dev.virtualearth.net
-weathermapdata.blob.core.windows.net
-arc.msn.com
-ris.api.iris.microsoft.com
-api.msn.com
-assets.msn.com
-c.msn.com
-g.msn.com
-ntp.msn.com
-srtb.msn.com
-www.msn.com
-fd.api.iris.microsoft.com
-staticview.msn.com
-mucp.api.account.microsoft.com
-query.prod.cms.rt.microsoft.com
-tile-service.weather.microsoft.com
-cdn.onenote.net
-evoke-windowsservices-tas.msedge.net
-config.edge.skype.com
-business.bing.com
-c.bing.com
-th.bing.com
-edgeassetservice.azureedge.net
-c-ring.msedge.net
-fp.msedge.net
-I-ring.msedge.net
-s-ring.msedge.net
-dual-s-ring.msedge.net
-creativecdn.com
-a-ring-fallback.msedge.net
-fp-afd-nocache-ccp.azureedge.net
-prod-azurecdn-akamai-iris.azureedge.net
-widgetcdn.azureedge.net
-widgetservice.azurefd.net
-fp-vs.azureedge.net
-ln-ring.msedge.net
-t-ring.msedge.net
-t-ring-fdv2.msedge.net
-tse1.mm.bing.net
-settings-win.data.microsoft.com
-settings.data.microsoft.com
-watson.telemetry.microsoft.com
-umwatsonc.events.data.microsoft.com
-ceuswatcab01.blob.core.windows.net
-ceuswatcab02.blob.core.windows.net
-eaus2watcab01.blob.core.windows.net
-eaus2watcab02.blob.core.windows.net
-weus2watcab01.blob.core.windows.net
-weus2watcab02.blob.core.windows.net
-co4.telecommand.telemetry.microsoft.com
-cs11.wpc.v0cdn.net
-cs1137.wpc.gammacdn.net
-modern.watson.data.microsoft.com
-oca.telemetry.microsoft.com
-oca.microsoft.com
-kmwatsonc.events.data.microsoft.com
+0.0.0.0 vpnnederland.nl
+0.0.0.0 activate.adobe.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ereg.adobe.com
+0.0.0.0 wip3.adobe.com
+0.0.0.0 activate.wip3.adobe.com
+0.0.0.0 3dns-3.adobe.com
+0.0.0.0 3dns-2.adobe.com
+0.0.0.0 adobe-dns.adobe.com
+0.0.0.0 adobe-dns-2.adobe.com
+0.0.0.0 adobe-dns-3.adobe.com
+0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 activate-sea.adobe.com
+0.0.0.0 wwis-dubc1-vip60.adobe.com
+0.0.0.0 activate-sjc0.adobe.com
+0.0.0.0 hl2rcv.adobe.com
+0.0.0.0 lm.licenses.adobe.com
+0.0.0.0 na2m-pr.licenses.adobe.com
+0.0.0.0 lmlicenses.wip4.adobe.com
+0.0.0.0 na1r.services.adobe.com
+0.0.0.0 hlrcv.stage.adobe.com
+0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.v.dropbox.com
+0.0.0.0 functional.events.data.microsoft.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
+0.0.0.0 us-v10c.events.data.microsoft.com
+0.0.0.0 eu-v10c.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 www.telecommandsvc.microsoft.com
+0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 watsonc.events.data.microsoft.com
+0.0.0.0 eu-watsonc.events.data.microsoft.com
+0.0.0.0 inference.location.live.net
+0.0.0.0 location-inference-westus.cloudapp.net
+0.0.0.0 maps.windows.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 ecn-us.dev.virtualearth.net
+0.0.0.0 weathermapdata.blob.core.windows.net
+0.0.0.0 arc.msn.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 api.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 c.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 www.msn.com
+0.0.0.0 fd.api.iris.microsoft.com
+0.0.0.0 staticview.msn.com
+0.0.0.0 mucp.api.account.microsoft.com
+0.0.0.0 query.prod.cms.rt.microsoft.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 cdn.onenote.net
+0.0.0.0 evoke-windowsservices-tas.msedge.net
+0.0.0.0 config.edge.skype.com
+0.0.0.0 business.bing.com
+0.0.0.0 c.bing.com
+0.0.0.0 th.bing.com
+0.0.0.0 edgeassetservice.azureedge.net
+0.0.0.0 c-ring.msedge.net
+0.0.0.0 fp.msedge.net
+0.0.0.0 I-ring.msedge.net
+0.0.0.0 s-ring.msedge.net
+0.0.0.0 dual-s-ring.msedge.net
+0.0.0.0 creativecdn.com
+0.0.0.0 a-ring-fallback.msedge.net
+0.0.0.0 fp-afd-nocache-ccp.azureedge.net
+0.0.0.0 prod-azurecdn-akamai-iris.azureedge.net
+0.0.0.0 widgetcdn.azureedge.net
+0.0.0.0 widgetservice.azurefd.net
+0.0.0.0 fp-vs.azureedge.net
+0.0.0.0 ln-ring.msedge.net
+0.0.0.0 t-ring.msedge.net
+0.0.0.0 t-ring-fdv2.msedge.net
+0.0.0.0 tse1.mm.bing.net
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 settings.data.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
+0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 cs1137.wpc.gammacdn.net
+0.0.0.0 modern.watson.data.microsoft.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.microsoft.com
+0.0.0.0 kmwatsonc.events.data.microsoft.com
